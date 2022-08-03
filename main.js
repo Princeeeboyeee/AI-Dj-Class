@@ -1,7 +1,7 @@
 song="";
 
 function preload(){
-    song=loadSound("Cradles.mp3");
+    song=loadSound("music.mp3");
 }
 
 function setup(){
